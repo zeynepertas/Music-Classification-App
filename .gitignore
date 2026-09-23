@@ -1,0 +1,10 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.slxc
+*.slx.r*
+*.mdl.r*
+slprj/
+*.fig
+*.mex*
